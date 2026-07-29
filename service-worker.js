@@ -5,8 +5,8 @@ const APP_FILES = [
   './style.css',
   './script.js',
   './manifest.webmanifest',
-  './assets/profile-placeholder.svg',
-  './assets/app-icon.svg'
+  './profile-placeholder.svg',
+'./app-icon.svg'
 ];
 
 self.addEventListener('install', (event) => {
