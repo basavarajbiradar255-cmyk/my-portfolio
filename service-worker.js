@@ -1,4 +1,4 @@
-const CACHE_NAME = 'basavaraj-portfolio-v1';
+const CACHE_NAME = 'basavaraj-portfolio-v2';
 const APP_FILES = [
   './',
   './index.html',
