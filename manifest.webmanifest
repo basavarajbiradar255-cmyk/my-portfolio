@@ -1,0 +1,12 @@
+{
+  "name": "Basavaraj Biradar | Portfolio",
+  "short_name": "Basavaraj",
+  "description": "Personal portfolio of Basavaraj Biradar, Computer Science Engineering student.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0e",
+  "theme_color": "#080a0e",
+  "icons": [
+    { "src": "assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
